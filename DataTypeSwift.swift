@@ -13,3 +13,10 @@ let suma = decimal + octal  // #=> 34
 // Float
 
 let gramos: Float = 85.32
+
+
+// Double
+
+let decimal = 12.1875
+let exponente = 1.21875e1
+let hexadecimal = 0xC.3p0
